@@ -1,3 +1,4 @@
+
 [{
     "ISBN":9786160821631,
     "Title":"โครงสร้างข้อมูล (Data Structures) เพื่อการออกแบบโปรแกรมคอมพิวเตอร์ (ฉบับปรับปรุง)",
@@ -7,6 +8,7 @@
     "Price":"219",
     "Picture":"9786160821631.jpg"
 },
+
 {
     "ISBN":9786162047886,
     "Title":"Python สำหรับงาน Data Science Data Visualization และ Machine Learning",
