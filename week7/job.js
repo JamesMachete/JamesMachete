@@ -4,7 +4,7 @@ let employee = [
         "Name":"นางปรียาดา ตั้งทิพย์",
         "Department": "บุคคล",
         "Position":"HR",
-        "Salary":48000,
+        "Salary":48000, 
         "Bonus":1.4
     },
     {
